@@ -15,7 +15,7 @@ A fast-paced arcade game for iOS where timing and reflexes are everything. Tap o
 
 | Page | URL |
 |------|-----|
-| 🏠 Homepage | [kparkaytogba.github.io/Chicken-Road-Dash](https://kparkaytogba.github.io/Chicken-Road-Dash) |
+| 🏠 Homepage | [kparkaytogba.github.io/Chicken-Road-Dash/](https://kparkaytogba.github.io/Chicken-Road-Dash/) |
 | 🆘 Support | [/support.html](https://kparkaytogba.github.io/Chicken-Road-Dash/support.html) |
 | 🔒 Privacy Policy | [/privacy.html](https://kparkaytogba.github.io/Chicken-Road-Dash/privacy.html) |
 | 📋 Terms of Service | [/tos.html](https://kparkaytogba.github.io/Chicken-Road-Dash/tos.html) |
@@ -77,6 +77,8 @@ Chicken-Road-Dash/
 │           └── AppDelegate.swift
 │
 ├── public/
+│   ├── index.html                # 🏠 Marketing landing page
+│   ├── hero.png                  # Hero image for landing page
 │   ├── support.html              # 🆘 Support & FAQ
 │   ├── privacy.html              # 🔒 Privacy Policy
 │   ├── tos.html                  # 📋 Terms of Service
@@ -113,8 +115,8 @@ npx cap sync ios
 The live site is hosted on GitHub Pages and auto-deploys on every push to `main` via GitHub Actions. To enable:
 
 1. Go to **Settings → Pages**
-2. Set Source to **GitHub Actions**
-3. Push to `main` — the workflow handles the rest
+2. Set Source to **Deploy from a branch** → branch: **`gh-pages`** / folder: **`/ (root)`**
+3. Push to `main` — the workflow builds and deploys automatically
 
 ---
 
