@@ -41,9 +41,33 @@
     }
     .email-box p { margin-bottom: 6px; color: #374151; }
     .email-box a { font-size: 16px; }
+    nav {
+      max-width: 640px;
+      margin: 0 auto 20px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    nav a {
+      background: white;
+      color: #15803d;
+      font-size: 13px;
+      font-weight: 700;
+      padding: 8px 16px;
+      border-radius: 999px;
+      text-decoration: none;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    nav a.active { background: #15803d; color: white; }
+    nav a:hover:not(.active) { background: #f0fdf4; }
   </style>
 </head>
 <body>
+  <nav>
+    <a href="/support.html" class="active">Support</a>
+    <a href="/privacy.html">Privacy Policy</a>
+    <a href="/tos.html">Terms of Service</a>
+  </nav>
   <div class="card">
     <div class="logo">🐔</div>
     <h1>Chicken Road Dash</h1>
