@@ -55,6 +55,14 @@ npx cap sync ios
 # then open ios/App/App.xcworkspace in Xcode
 ```
 
+## Links
+
+| Page | URL |
+|------|-----|
+| Support | https://kparkaytogba.github.io/Chicken-Road-Dash/support.html |
+| Privacy Policy | https://kparkaytogba.github.io/Chicken-Road-Dash/privacy.html |
+| Terms of Service | https://kparkaytogba.github.io/Chicken-Road-Dash/tos.html |
+
 ## Scoring
 
 | Action | Points |
