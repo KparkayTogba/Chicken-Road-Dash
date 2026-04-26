@@ -59,6 +59,7 @@ npx cap sync ios
 
 | Page | URL |
 |------|-----|
+| Home | https://kparkaytogba.github.io/Chicken-Road-Dash/ |
 | Support | https://kparkaytogba.github.io/Chicken-Road-Dash/support.html |
 | Privacy Policy | https://kparkaytogba.github.io/Chicken-Road-Dash/privacy.html |
 | Terms of Service | https://kparkaytogba.github.io/Chicken-Road-Dash/tos.html |
