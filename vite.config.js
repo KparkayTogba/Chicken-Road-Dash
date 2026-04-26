@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import path from "path";
 
 export default defineConfig({
-  base: "/chicken-game/",
+  base: "/Chicken-Road-Dash/",
   plugins: [react()],
   resolve: {
     alias: {
