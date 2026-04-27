@@ -32,15 +32,6 @@ A fast-paced arcade game for iOS where timing and reflexes are everything. Tap o
 
 ---
 
-## 🖼️ Screenshots
-
-| Hero | Gameplay | Features |
-|------|----------|----------|
-| ![Hero](screenshots/Screenshot_1_Hero.png) | ![Gameplay](screenshots/Screenshot_2_Gameplay.png) | ![Features](screenshots/Screenshot_3_Features.png) |
-
-> All screenshots are 1242 × 2688px (iPhone 6.5" — App Store ready)
-
----
 
 ## 🛠️ Tech Stack
 
